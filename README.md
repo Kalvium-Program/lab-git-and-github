@@ -1,1 +1,1 @@
-# lab-git-and-github
+# Getting started with git and github
