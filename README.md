@@ -1,1 +1,1 @@
-# lab-git-and-github
+# Lab with git and github
